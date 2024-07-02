@@ -26,10 +26,6 @@ body{
 h1{
     color: var(--cor-destaque);
 }
-
-
-
-
 .button{
     background-color: var(--cor-secundaria);
     color: var(--cor-texto);
